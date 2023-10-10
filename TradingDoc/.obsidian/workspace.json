@@ -11,8 +11,12 @@
             "id": "aa5eacd7b9997327",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/顶底构造.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "基础知识/顶底构造.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "基础知识/顶底构造.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "基础知识/顶底构造.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "beafa1e2355261bb",
+  "active": "aa5eacd7b9997327",
   "lastOpenFiles": [
+    "指标策略/超级趋势过滤器交易系统-失败.md",
     "assets/Pasted image 20230702194315.png",
     "钻潜交易法.md",
     "趋势交易策略.md",
@@ -153,7 +162,6 @@
     "聪明钱机构订单原理SMC.md",
     "维加斯隧道交易法.md",
     "海龟交易法.md",
-    "指标策略/超级趋势过滤器交易系统-失败.md",
     "指标策略/SSL通道+HAMA平均蜡烛图策略.md",
     "指标策略",
     "投资策略思维导图.md",
@@ -174,7 +182,6 @@
     "assets/Pasted image 20230814140151.png",
     "assets/Pasted image 20230702213217.png",
     "assets/Pasted image 20230702212931.png",
-    "assets/Pasted image 20230702212751.png",
     "assets",
     "PinBar裸k交易系统.md",
     "assect",
