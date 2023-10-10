@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "8ddc9d638191a30d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe5f640613ddf82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73b406ee8b2064d6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20230702194315.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2603c9aaedd5a1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1036e36370e1949c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beafa1e2355261bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bef88a41a0512836",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90c1a4ea86d612e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c368aabcb813ee7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2a7f5afc087fb51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a08c5c17dca8549",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "assets/Pasted image 20230702194315.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "690b5e680d6798c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "assets/Pasted image 20230702194315.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9dc182e2d38bfcb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c35d78b8416a52d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "assets/Pasted image 20230702194315.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "73b406ee8b2064d6",
+  "lastOpenFiles": [
+    "钻潜交易法.md",
+    "趋势交易策略.md",
+    "行情分析.md",
+    "自然交易法.md",
+    "自己的交易系统/自己的交易系统.md",
+    "自己的交易系统/入场信号.md",
+    "自己的交易系统/仓位管理.md",
+    "自己的交易系统/交易品种.md",
+    "自己的交易系统",
+    "聪明钱机构订单原理SMC.md",
+    "维加斯隧道交易法.md",
+    "海龟交易法.md",
+    "指标策略/超级趋势过滤器交易系统-失败.md",
+    "指标策略/SSL通道+HAMA平均蜡烛图策略.md",
+    "指标策略",
+    "投资策略思维导图.md",
+    "基础知识/顶底构造.md",
+    "基础知识/裸K基础.md",
+    "基础知识/概念科普.md",
+    "基础知识/外汇基础.md",
+    "基础知识/国内期货.md",
+    "基础知识",
+    "均线趋势回调和突破交易系统.md",
+    "价格行为技术.md",
+    "assets/Pasted image 20230815102511.png",
+    "assets/Pasted image 20230814142954.png",
+    "assets/Pasted image 20230814142755.png",
+    "assets/Pasted image 20230814142501.png",
+    "assets/Pasted image 20230814142443.png",
+    "assets/Pasted image 20230814140228.png",
+    "assets/Pasted image 20230814140151.png",
+    "assets/Pasted image 20230702213217.png",
+    "assets/Pasted image 20230702212931.png",
+    "assets/Pasted image 20230702212751.png",
+    "assets",
+    "PinBar裸k交易系统.md",
+    "assect",
+    "未命名文件夹",
+    "Z 投资交易策略"
+  ]
+}
