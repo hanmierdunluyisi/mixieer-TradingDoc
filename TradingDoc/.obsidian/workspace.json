@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dbe5f640613ddf82",
+        "id": "b5ee4f46bd3f740d",
         "type": "tabs",
         "children": [
           {
-            "id": "73b406ee8b2064d6",
+            "id": "aa5eacd7b9997327",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20230702194315.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20230702194315.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Pasted image 20230702194315.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/Pasted image 20230702194315.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,8 +138,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "73b406ee8b2064d6",
+  "active": "beafa1e2355261bb",
   "lastOpenFiles": [
+    "assets/Pasted image 20230702194315.png",
     "钻潜交易法.md",
     "趋势交易策略.md",
     "行情分析.md",
