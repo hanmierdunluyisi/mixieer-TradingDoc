@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5ee4f46bd3f740d",
+        "id": "783728f0ce529ac9",
         "type": "tabs",
         "children": [
           {
-            "id": "aa5eacd7b9997327",
+            "id": "0ce678406ae0e10e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/顶底构造.md",
+                "file": "基础知识/英文缩写解释.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础知识/顶底构造.md",
+                "file": "基础知识/英文缩写解释.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础知识/顶底构造.md",
+                "file": "基础知识/英文缩写解释.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础知识/顶底构造.md"
+                "file": "基础知识/英文缩写解释.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aa5eacd7b9997327",
+  "active": "0ce678406ae0e10e",
   "lastOpenFiles": [
+    "基础知识/英文缩写解释.md",
+    "基础知识/顶底构造.md",
     "指标策略/超级趋势过滤器交易系统-失败.md",
     "assets/Pasted image 20230702194315.png",
     "钻潜交易法.md",
@@ -165,7 +167,6 @@
     "指标策略/SSL通道+HAMA平均蜡烛图策略.md",
     "指标策略",
     "投资策略思维导图.md",
-    "基础知识/顶底构造.md",
     "基础知识/裸K基础.md",
     "基础知识/概念科普.md",
     "基础知识/外汇基础.md",
